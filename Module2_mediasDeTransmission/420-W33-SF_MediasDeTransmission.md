@@ -15,7 +15,8 @@ Objectifs :
 - Se connecter sur le site web NetaCad(c)
 
 - Rendez-vous au  chapitre 4: Couche physique
-- Lire ET résumer les lectures suivantes:
+- Lire ET résumer les lectures suivantes dans votre cahier de notes:
+
 
     4.0.2; 4.2.3; 4.2.5; 4.2.6; 4.2.7;
 
@@ -23,9 +24,9 @@ Objectifs :
 
     les autres rubriques sont optionnelles
 
-## Exercice 1 -  codage d'un message
+## Exercice 1 - Codage d'un message
 
-Dans cet exercice, vous allez coder un  message   dans les trois formats de nombres: décimal, exxadécimal et binaire. Vous utuliserez le système des caractères ASCII.
+Dans cet exercice, vous allez coder un message dans les trois formats de nombres: décimal, exxadécimal et binaire. Vous utuliserez le système des caractères ASCII.
 
 <details>
     <summary>Indice</summary>
@@ -42,14 +43,14 @@ consultez le site web de Wikipedia pour le tableau des caractères.
 
 Le fichier MessageCodeEnBinaire.xls du site GitHub vous facilitera la disposition des "0" et des "1". 
 
-## Exercice 2 - temps de transmission
+## Exercice 2 - Temps de transmission
 
 - Votre carte réseau sans fil est calibrée à 2 Mbits/seconde. Combien de temps faut-il pour transmettre le message suivant: ```Allo mes amis de qui je ne recois plus de messages```?
 
 <details>
     <summary>Précisions</summary>
 
-Votre calcul ne tient pas compte de facteurs modifiant la transmissions. 
+Votre calcul ne tient pas compte de facteurs modifiant la transmission. 
 
 </details>
 
@@ -58,48 +59,50 @@ Dans cet exercice, vous allez choisir le câble approprié pour brancher les éq
 
 ### Étape 1 - connexion dos-à-dos
 
-Choisir le câble Ethener approprié pour racorder les deux PCs entre eux. 
+Choisir le câble Ethernet approprié pour raccorder les deux PCs entre eux. 
 
 ![connexion dos-à-dos](img/CablageEthernetUTP_1.png) 
 
 ### Étape 2 - réseau local
-Choisir le câble Ethener approprié pour racorder les équipements du réseau local suivant. 
+Choisir le câble Ethernet approprié pour raccorder les équipements du réseau local suivant. 
 
 ![réseau local](img/CablageEthernetUTP_2.png)
 
 ### Étape 3 - Réseau domestique
-Choisir le câble Ethener approprié pour racorder le PC au routeur domestique. 
+Choisir le câble Ethernet approprié pour racorder le PC au routeur domestique. 
 
 ![réseauDomestique](img/CablageEthernetUTP_3.png)
 
-## Exercice 5 -  réseauEthernetDomestique
-Suivre les instructions du fichier  ```4.6.6 LaboReseauEthernetFileEtSansFil.pdf``` et répondre aux questions dans votre cahier de note.
+## Exercice 4 - Réseau Ethernet Domestique
+Suivre les instructions du fichier ```4.6.6 LaboReseauEthernetFileEtSansFil.pdf``` et répondre aux questions dans votre cahier de note.
 
 Certaines questions peuvent vous sembler inconnues. Ne pas s'en faire. Répondez au meilleur de votre connaissance. Elles seront expliquées dans les prochains modules.
 
 <details>
     <summary>Reseau Filaire ou SansFil</summary>
 
-l'étape 2 concerne les cartes de réseau sansFil. répondez aux questions, sinon sautez cette étape.
+l'étape 2 concerne les cartes de réseau sans-Fil. Répondez aux questions, sinon sautez cette étape.
 
-l'étape 2 concerne les cartes de réseau filaire. répondez aux questions, sinon sautez cette étape ou utilisez un appareil équipé d'une carte réseau Eternet filé (câblage RJ-45).
+l'étape 3 concerne les cartes de réseau filaire. Répondez aux questions, sinon sautez cette étape ou utilisez un appareil équipé d'une carte réseau Eternet filé (câblage RJ-45).
 
 </details>
 
-## Exercice 6 - réseau d'entreprise
-Dans cet exercices, vous utiliserez le simulateur Packet Tracer. Le fichier  fichier ```4.6.5CablageEthernetEtSansFil.zip``` contient deux fichiers
-    :une applicaiton de type "PacketTracer"
+## Exercice 5 - réseau d'entreprise
+Dans cet exercice, vous utiliserez le simulateur Packet Tracer. Le fichier ```4.6.5CablageEthernetEtSansFil.zip``` contient deux fichiers
+    : une application de type "PacketTracer"
     : les instructions pour cet exercice.
 
 - Décompressez le fichier dans un répertoire de votre poste de travail.
 
+- Suivez les instructions pour effectuer l'exercice.
+
 <details>
-    <summary>Recommendations</summary>
+    <summary>Recommandations </summary>
 
 Regroupez tous vos exercices du cours 420-W33-SF dans un même sous-répertoire de votre poste personnel. Vous pourrez y revenir plus facilement dans le futur.
 
 </details>
 
-- Exécutez l'application PT en vous aidant des  instructions contenues dans le fichier 
+- Exécutez l'application PT en vous aidant des instructions contenues dans le fichier 
 
 FIn des exercices du module 

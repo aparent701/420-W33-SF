@@ -17,7 +17,6 @@ Objectifs :
 - Rendez-vous au  chapitre 4: Couche physique
 - Lire ET résumer les lectures suivantes dans votre cahier de notes:
 
-
     4.0.2; 4.2.3; 4.2.5; 4.2.6; 4.2.7;
 
     4.3.2; 4.3.3; 4.3.4; 4.3.5; 4.3.6; 4.4.3.

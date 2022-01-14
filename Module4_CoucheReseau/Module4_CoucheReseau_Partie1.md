@@ -10,7 +10,7 @@ NOTE: hôte et périphérique sont considérés synonymes
 
 - 1 [Lectures, animations, quiz](./Module04_1_Lectures.md)
 
-- 2 [Adresses Privées et publiques](./Module04_1_Laboratoire.md)
+- 2 [LaboatoireIP](./Module04_1_Laboratoire.md)
 
 - 3 [Simulation PT](./Module04_1_SimulationPT.md)
 

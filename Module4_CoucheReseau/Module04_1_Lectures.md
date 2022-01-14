@@ -85,7 +85,7 @@
 
 - [b] Le terme  ```hôte de destination distant``` disigne un hôte séparé de l'hôte source par un commutateur ou un routeur
 
-- [d] Les hôtes locaux peuvent communiquer entre eux sans l'usage d'un routeur
+- [c] Les hôtes locaux peuvent communiquer entre eux sans l'usage d'un routeur
 
 - [d] Le routage est essentiel pour rejoindre un ```hôte de destination distant``` 
 

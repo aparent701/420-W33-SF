@@ -1,4 +1,6 @@
-## Exercice 1 - Simulation avec Packet Tracer
+## Exercice  - Simulation avec Packet Tracer
+
+## Étape 1 - communication postes dos-a-dos
 
 - Décompressez le fichier ./Exercices/7.1.1 adressage MAC dos-a-dos.zip sur votre poste de travail.
 

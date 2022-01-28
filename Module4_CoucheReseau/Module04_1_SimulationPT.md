@@ -1,6 +1,6 @@
 ## Exercice 1 - Simulation avec Packet Tracer
 
-- Décompressez le fichier ./Exercices/7.1.1 adressage MAC dos-a-dos.zip sur votre poste de travail.
+- Décompressez le fichier ./Exercices/4.7.1 Packet Tracer - Physical Layer Exploration - Physical Mode.zip sur votre poste de travail.
 
 - L'activité  PT est contenue dans le fichier .pka. 
 

@@ -1,4 +1,4 @@
-# Module 05 - Couche LiaisonDonnees_partie 2
+# Module 10 - Configuration des routeurs: routes statiques
 
 Objectifs :
 

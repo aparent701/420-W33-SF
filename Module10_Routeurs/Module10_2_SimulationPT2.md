@@ -10,7 +10,6 @@
 
 Cet exercice permet de simuler le laboratoire complet sur PT
 
-
 - Décompressez le fichier ./Exercices/ ```10.4.2Packet Tracer Configurer deux routeurs locaux.zip``` sur votre poste de travail.
 
 - L'activité  PT est contenue dans le fichier .pka. 

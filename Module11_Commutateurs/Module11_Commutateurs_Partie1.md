@@ -1,12 +1,10 @@
-# Module 10 - Configuration des routeurs: routes statiques
+# Module 11 - Configuration des commutateurs de réseau local
 
 Objectifs :
 
-- Configurer des interfaces de routeurs
+- Sécuriser un commutateur
 
-- Configurer des routes statiques
-
-- Configurer d'une route par défaut
+- Configurer l'interface virtuelle SVI
 
 NOTE: hôte et périphérique sont considérés synonymes
 
@@ -16,7 +14,7 @@ NOTE: hôte et périphérique sont considérés synonymes
 
 - 3 [Configuration de l'interface SVI](./Module11_1_SimulationPT2.md)
 
-- 4  [Configuration des routes statiques avance](./Module11_1_SimulationPT3.md)
+- 4  [Révision des configurations](./Module11_1_SimulationPT3.md)
 
 FIn des exercices du module 
 

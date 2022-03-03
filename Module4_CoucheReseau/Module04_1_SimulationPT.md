@@ -1,4 +1,4 @@
-## Exercice 4 - Simulation avec Packet Tracer
+## Exercice 1 - Simulation avec Packet Tracer
 
 - Décompressez le fichier ./Exercices/4.7.1 Packet Tracer - Physical Layer Exploration - Physical Mode.zip sur votre poste de travail.
 

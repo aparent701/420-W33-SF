@@ -53,4 +53,4 @@ Voir la rubrique 3.8.2 du cours NetAcad
 
 Répondre aux questions: 2,3,4,6,7,8,9,10,11,12,13,14,15
 
-FIn des exercices du module 
+FIn des exercices du module

@@ -1,20 +1,20 @@
-# Module 14 - Applications réseau
+# Module 12 - Protocoles applicatifs
 
 Objectifs :
 
 - Expliquer comment les fonctions de la couche application, de la couche présentation et de la couche session 
-fonctionnent ensemble pour fournir des services de réseau aux applications des utilisateurs finaux.
+fonctionnent ensemble pour fournir des services applicatifs aux utilisateurs finaux.
 
 - Expliquer comment les applications des utilisateurs fonctionnent dans un réseau peer-to-peer.
 
-- Expliquer le fonctionnement de DNS et DHCP.
+- Expliquer le fonctionnement de Web et Mail.
 
 
 ## Lectures obligatoires
 
 - Se connecter sur le site web NetaCad(c)
 
-- Rendez-vous au  CHAPITRE 15    
+- Rendez-vous au  CHAPITRE 15 sur NetAcad   
 
 - Lire ET résumer les lectures suivantes:
 

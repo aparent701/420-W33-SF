@@ -32,7 +32,7 @@
 3. Dépannez le serveur ServerPROD pour obtenir une connectivité avec PC1 et L1.
 
 <details>
-    <summary>Configuration DNS</summary>
+    <summary>Configuration NAT</summary>
 
 ![Configuration NAT](img/SchemaNAT.png)
 
@@ -47,3 +47,4 @@
 2. Sur La, effectuez une recherche web sur le serveur serverPROD. Vérifiez la traduction NAT à nouveau.
 
 ## Étape 4 : Sauvegarde de votre travail.
+
